@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Python in the University and my free time**
 
-- 💬 Ask me about **Math, Python, Excel, Rstudio, Unity and Jaca**
+- 💬 Ask me about **Math, Python, Excel, Rstudio, Unity and Java**
 
 - 📫 How to reach me **millonario182elpro@gmail.com**
 
